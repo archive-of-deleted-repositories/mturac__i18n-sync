@@ -1,0 +1,19 @@
+{
+  "name": "i18n-sync",
+  "version": "0.1.0",
+  "author": {
+    "name": "mturac"
+  },
+  "description": "Keeps translation keys in sync across locales, detects missing/duplicate keys, and generates type-safe translation hooks.",
+  "skills": [
+    "skills/i18n-scan",
+    "skills/i18n-generate",
+    "skills/i18n-prune"
+  ],
+  "commands": [
+    "commands/i18n-sync.md",
+    "commands/i18n-sync-scan.md",
+    "commands/i18n-sync-generate.md",
+    "commands/i18n-sync-prune.md"
+  ]
+}

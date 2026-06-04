@@ -1,0 +1,21 @@
+{
+  "name": "i18n-sync",
+  "version": "0.1.0",
+  "author": "mturac",
+  "description": "Keeps translation keys in sync across locales, detects missing/duplicate keys, and generates type-safe translation hooks.",
+  "keywords": [
+    "i18n",
+    "internationalization",
+    "translations",
+    "localization",
+    "typescript",
+    "locales",
+    "translation-keys",
+    "sync"
+  ],
+  "license": "MIT",
+  "categories": ["Developer Tools", "Internationalization", "Code Quality"],
+  "compatibility": {
+    "minClaudeCodeVersion": "1.0.0"
+  }
+}
